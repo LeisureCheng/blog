@@ -1,7 +1,7 @@
 baseURL: "https://leisurecheng.github.io/"
 title: 77
 paginate: 5
-theme: PaperMod
+theme: PaperMod2
 
 enableRobotsTXT: true
 buildDrafts: false
