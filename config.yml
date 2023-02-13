@@ -20,7 +20,7 @@ params:
   description: "77"
   keywords: [Blog]
   author: 77
-  DateFormat: "January 2, 2006"
+  DateFormat: "2023-02-13"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
